@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="livposjava:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/livposjava_jar</output-path>
+    <root id="archive" name="livposjava.jar">
+      <element id="module-output" name="livposjava" />
+    </root>
+  </artifact>
+</component>
